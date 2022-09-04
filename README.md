@@ -5,25 +5,19 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
 
 ### Results
 
-<table>
-  <tr>
-    <th>Time taken with original script</th> 
+#### Time taken for analysis 2017
     <p float="left">
     <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
-    </p> 
-    <th>Time taken with refactored script</th>
-    <p float="left">
     <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
-    </p>
-   </tr>
-  </table>
+    </p> 
+    
 
 Above are the images of time taken to compelete analysis for 2017 all stocks between original code and refactored code. 
 Refactored code takes much lesser time to complete.
 
 Let us look at the difference now for 2018
 
-
+#### Time taken for analysis 2018
 <p float="left">
   <img src="Resources/VBA_2018_Pop_Up_Not_Refactored.png" width="250" />
   <img src="Resources/VBA_Challenge_2018_Pop_Up.png" width="250" /> 
