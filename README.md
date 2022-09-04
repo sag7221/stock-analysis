@@ -6,10 +6,10 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
 ### Results
 
 #### Time taken for analysis 2017
-    <p float="left">
-    <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
-    <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
-    </p> 
+<p float="left">
+  <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
+  <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
+</p> 
     
 
 Above are the images of time taken to compelete analysis for 2017 all stocks between original code and refactored code. 
