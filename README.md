@@ -7,17 +7,14 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
 
 <table>
   <tr>
+    <th>Time taken with original script</th> 
     <p float="left">
     <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
     </p> 
-    <td>Time taken with original script</td> 
-    <th>Contact</th>
-    <th>Country</th>
- 
+    <th>Time taken with refactored script</th>
     <p float="left">
     <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
     </p>
-    <td>Time taken with refactored script</td> 
    </tr>
   </table>
 
