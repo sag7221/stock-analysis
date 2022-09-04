@@ -9,14 +9,17 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
   <tr>
     <p float="left">
     <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
-    </p>  
+    </p> 
+    <td>Time taken with original script</td> 
     <th>Contact</th>
     <th>Country</th>
-  </tr>
-<p float="left">
-  <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
-  <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
-</p>
+ 
+    <p float="left">
+    <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
+    </p>
+    <td>Time taken with refactored script</td> 
+   </tr>
+  </table>
 
 Above are the images of time taken to compelete analysis for 2017 all stocks between original code and refactored code. 
 Refactored code takes much lesser time to complete.
