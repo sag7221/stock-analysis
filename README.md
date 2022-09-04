@@ -19,6 +19,11 @@ Let us look at the difference now for 2018
 ![Original Script](Resources/VBA_2018_Pop_Up_Not_Refactored.png)
 ![Refactored Script](Resources/VBA_Challenge_2018_Pop_Up.png)
 
+<p float="left">
+  <img src="Resources/VBA_2018_Pop_Up_Not_Refactored.png" width="250" />
+  <img src="Resources/VBA_Challenge_2018_Pop_Up.png" width="250" /> 
+</p>
+
 We see a similar pattern here, refactored code took much lesser time than the original code.
 
 
