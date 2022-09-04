@@ -7,7 +7,7 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
 ![Original Script](Resources/VBA_2017_Pop_Up_Not_Refactored.png)
 ![Refactored Script](Resources/VBA_Challenge_2017_Pop_Up.png)
 
-Above are the images of time taken to compelte analysis for 2017 all stocks between original code and refactored code. 
+Above are the images of time taken to compelete analysis for 2017 all stocks between original code and refactored code. 
 Refactored code takes much lesser time to complete.
 
 Let us look at the difference now for 2018
