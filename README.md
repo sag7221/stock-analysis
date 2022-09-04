@@ -5,7 +5,14 @@ We are tryingIn this project, we are helping Steve, run analysis on all stocks p
 
 ### Results
 
-
+<table>
+  <tr>
+    <p float="left">
+    <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
+    </p>  
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
 <p float="left">
   <img src="Resources/VBA_2017_Pop_Up_Not_Refactored.png" width="250" />
   <img src="Resources/VBA_Challenge_2017_Pop_Up.png" width="250" /> 
